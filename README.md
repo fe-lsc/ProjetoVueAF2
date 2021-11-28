@@ -1,9 +1,7 @@
 # Projeto Vue Desenvolvimento WEB
 
 ## Resultado final (ScreeenShot)
-
-(https://user-images.githubusercontent.com/69730560/143790601-d32dd918-b554-4915-9687-1b7958ce99cb.png)
-epxo
+https://imgur.com/a/k9Repxo
 
 ## Project setup
 ```
