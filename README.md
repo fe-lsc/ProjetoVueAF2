@@ -2,7 +2,7 @@
 
 ## Resultado final (ScreeenShot)
 
-![](https://github.com/fe-lsc/new-project-vue/blob/main/Images/ResultadoFinal.png?raw=true)
+![]https://imgur.com/a/k9Repxo
 
 ## Project setup
 ```
