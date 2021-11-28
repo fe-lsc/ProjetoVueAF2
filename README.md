@@ -2,7 +2,7 @@
 
 ## Resultado final (ScreeenShot)
 
-![]https://imgur.com/a/k9Repxo
+https://imgur.com/a/k9Repxo
 
 ## Project setup
 ```
